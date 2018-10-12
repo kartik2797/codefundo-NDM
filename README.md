@@ -9,3 +9,4 @@ Web-app will also be taking data from volunteers (wherever possible) regarding t
 
 Implementation : Backend using Python along with tensorflow and keras library.
                  Frontend using HTML,CSS,Javascript,Bootstrap and Django
+                 Diploying on microsoft Azure.
